@@ -8,7 +8,7 @@ I am a software developer specializing in building robust, user-centric applicat
 
 * 🌍  I'm based in Denver, CO
 * ✉️  You can contact me at [aliciayu22@gmail.com](mailto:aliciayu22@gmail.com)
-* 🚀  I'm currently working on [Personalized Pet Care]([http://github.com/AliGxir/Personalized_Pet_Care](https://aligxir.github.io/))
+* 🚀  I'm currently working on [Portfolio]([http://github.com/AliGxir/AliGxir.github.io](https://aligxir.github.io/))
 * 🤝  I'm open to collaborating on full-stack projects that make a difference!
 * ⚡  Interests: cooking, baking, k-dramas, and personal development
 
